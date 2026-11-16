@@ -1,0 +1,7 @@
+# Kebutuhan untuk menjalankan dashboard (dashboard/dashboard.py) dan notebook (notebook.ipynb)
+pandas==3.0.6
+numpy==2.5.4
+matplotlib==3.11.2
+seaborn==0.13.2
+streamlit==1.67.0
+ipykernel==7.4.0
